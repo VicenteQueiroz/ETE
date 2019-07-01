@@ -1,0 +1,41 @@
+/* .wrapper {
+  align-items: "center";
+  justify-content: "center";
+  background-color: #0984e3;
+}
+.centered {
+  margin: auto;
+  background-color: white;
+  font-size: 2rem;
+} */
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0984e3;
+}
+.centered {
+  margin: auto;
+  background-color: white;
+  font-size: 1.5rem;
+}
+
+/* .Login {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Login_color_container {
+  width: 50%;
+  height: 75%;
+  background-color: #313e50;
+  border-radius: 15px;
+  margin: auto;
+  display: flex;
+}
+
+.Login_inputs {
+  margin: auto;
+} */
